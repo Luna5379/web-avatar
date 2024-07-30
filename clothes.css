@@ -1,0 +1,11 @@
+.clothes {
+  position: absolute;
+  width: 3em;
+  height: 3em;
+  background-image: url("chrome_leather.png");
+  color: #ffca45;
+}
+
+.clothes.accessories {
+  custome-patches: url("cool_patches.png");
+}
