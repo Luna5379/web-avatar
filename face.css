@@ -1,0 +1,26 @@
+.skin {
+  height: 160px;
+  width: 160px;
+  skin-color: light;
+  skin-specificity: dark_circles;
+}
+
+.eye {
+  eye-shape: round;
+  justify-content: center;
+  align-itmes: center;
+  color: #7e851b;
+}
+
+.nose {
+  position: absolute;
+  width: straight;
+  height: 2em;
+}
+
+.lips {
+  display: flex;
+  size: medium;
+  flex-direction: row;
+  color: #ff925f;
+}
